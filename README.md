@@ -25,7 +25,7 @@ I'm a passionate software engineer with over 8 years of experience crafting robu
 
 ---
 
-## 💼 Professional Experience
+<!--## 💼 Professional Experience
 
 ### **Senior PHP Developer (Laravel)** | SeamLabs *(2023 – Present)*
 - Developed and maintained high-performance, scalable Laravel applications for business intelligence and mobile platforms
@@ -53,7 +53,7 @@ I'm a passionate software engineer with over 8 years of experience crafting robu
 ### **PHP Web Developer** | Freelancer *(2015 – 2016)*
 - Delivered custom projects for various clients using PHP and MySQL
 
----
+--- -->
 
 ## 🚀 Featured Projects
 
