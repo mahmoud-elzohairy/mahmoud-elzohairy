@@ -57,17 +57,17 @@ I'm a passionate software engineer with over 8 years of experience crafting robu
 
 ## 🚀 Featured Projects
 
-### [**E-Commerce Platform**](https://github.com/mahmoud-elzohairy/ecommerce-platform)
+### [**E-Commerce Platform**](#)
 A scalable e-commerce platform built with Laravel and Vue.js. Features a microservices architecture, real-time notifications via WebSocket, and a full CI/CD pipeline.
 
 `Laravel` `Vue.js` `MySQL` `Redis` `Docker` `WebSocket`
 
-### [**Business Intelligence SaaS**](https://github.com/mahmoud-elzohairy/business-intelligence-saas)
+### [**Business Intelligence SaaS**](#)
 A SaaS application for business intelligence, providing data analytics and reporting. Integrated with AWS services for storage and computation.
 
 `Laravel` `REST API` `AWS` `MongoDB` `JWT`
 
-### [**Social Network Backend**](https://github.com/mahmoud-elzohairy/social-network-backend)
+### [**Social Network Backend**](#)
 A social networking mobile app backend with a robust API, featuring OAuth authentication, real-time chat, and advanced feed algorithms.
 
 `Laravel` `OAuth` `WebSocket` `MySQL` `Elasticsearch`
